@@ -23,3 +23,19 @@ th {
 td {
     border: 1px solid blue;
 }
+
+article {
+    border: 1px solid red;
+}
+html{
+    width: 100%;
+}
+head{
+    width: 100%;
+}
+body{
+    width: 100%;
+}
+.left{
+    width: 100%;
+}
