@@ -1,0 +1,25 @@
+#content {
+    display: flex;
+    flex-direction: row;
+}
+
+.left {
+    width: 40%;
+}
+
+.right {
+    width: 60%;;
+}
+
+table {
+    border: 1px solid green;
+    border-collapse: collapse;
+}
+
+th {
+    border: 1px solid red;
+}
+
+td {
+    border: 1px solid blue;
+}
