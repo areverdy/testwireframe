@@ -20,20 +20,20 @@
 }
 
 table {
-    border: 1px solid green;
+    border: 1px solid black;
     border-collapse: collapse;
 }
 
 th {
-    border: 1px solid red;
+    border: 1px solid black;
 }
 
 td {
-    border: 1px solid blue;
+    border: 1px solid black;
 }
 
 article {
-    border: 1px solid red;
+    border: 1px solid black;
     margin: 20px;
     padding:10px;
 }
