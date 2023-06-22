@@ -9,13 +9,13 @@
     overflow-x: hidden;
     position: fixed;
     height: 100%;
-    width: 40%;
+    width: 20%;
     background-color: aquamarine;
 }
 
 .right {
     background-color: bisque;
-    margin-left:40%;
+    margin-left:20%;
     overflow: hidden;
 }
 
