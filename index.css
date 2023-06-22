@@ -3,10 +3,6 @@
     flex-direction: row;
 }
 
-.left {
-    width: 40%;
-}
-
 .right {
     width: 60%;;
 }
@@ -27,15 +23,14 @@ td {
 article {
     border: 1px solid red;
 }
-html{
-    width: 100%;
-}
-head{
-    width: 100%;
-}
-body{
-    width: 100%;
-}
+
 .left{
-    width: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 100%;
+    width: 40%;
+    background-color: aquamarine;
 }
+
+    
+
