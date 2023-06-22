@@ -3,8 +3,17 @@
     flex-direction: row;
 }
 
+.left{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: fixed;
+    height: 100%;
+    width: 40%;
+    background-color: aquamarine;
+}
+
 .right {
-    width: 60%;;
+    width: 60%;
 }
 
 table {
@@ -22,15 +31,11 @@ td {
 
 article {
     border: 1px solid red;
+    margin: 20px;
+    padding:10px;
 }
 
-.left{
-    overflow-y: scroll;
-    overflow-x: hidden;
-    height: 100%;
-    width: 40%;
-    background-color: aquamarine;
-}
+
 
     
 
