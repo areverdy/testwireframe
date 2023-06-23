@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: row;
     width: 100%;
-    font-family: Snell Roundhand, cursive;
+    font-family: Arial Narrow, sans-serif;
 }
 
 .left{
