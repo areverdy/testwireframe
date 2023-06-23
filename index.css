@@ -11,11 +11,17 @@
     height: 100%;
     width: 20%;
     background-color: aquamarine;
+    padding-left: 20px;
+
 }
+
+ul{
+       list-style: square;
+       }
 
 .right {
     background-color: bisque;
-    margin-left:20%;
+    margin-left:21%;
     overflow: hidden;
 }
 
